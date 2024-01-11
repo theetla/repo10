@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 rectifying the conflict due to code change
+=======
+checking conflict
+>>>>>>> d1b37f3c30df25877e5800a2907f506e6dc3a26d
